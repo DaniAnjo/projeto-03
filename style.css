@@ -1,0 +1,136 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  position: absolute;
+  width: 1087px;
+  height: 30px;
+  left: 99px;
+  top: 71px;
+  
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+background: #2C2B3D;
+
+/* background */
+
+position: absolute;
+width: 1280px;
+height: 720px;
+left: 20px;
+top: 0px;
+
+background: #2C2B3D;}
+  .page {
+    width: 1000px;
+    margin: 0 auto;
+    padding-top: 65px;
+  
+}
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 55px;
+}
+ul{
+font-family: 'JetBrains Mono';
+display: flex;
+align-items: flex-start;
+padding: 0px;
+gap: 64px;
+color: #FFFFFF;
+
+position: absolute;
+width: 306px;
+height: 30.05px;
+right: 0px;
+top: 0px;
+}
+
+h1{
+text-align: center;
+color: #FFFFFF;
+mix-blend-mode: normal;
+position: absolute;
+left: 45.08%;
+right: 26.72%;
+top: 28.89%;
+bottom: 65.56%;
+
+font-family: 'JetBrains Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 40px;
+}
+h1 span { 
+  text-align: center;
+  color: #00BFA6;
+  mix-blend-mode: normal; 
+ }
+ p {
+position: absolute;
+left: 45.47%;
+right: 7.34%;
+top: 42.64%;
+bottom: 34.03%;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+text-align: center;
+
+color: #C2C2C2;
+
+mix-blend-mode: normal;
+ }
+ footer{
+   position: absolute;
+   width: 462px;
+   height: 28px;
+   left: 397px;
+   top: 669px;
+   
+   font-family: 'JetBrains Mono';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14px;
+   line-height: 28px;
+   text-align: center;
+   
+   color: #FFFFFF;
+  }
+  line{
+    position: absolute;
+    width: 568px;
+    height: 0px;
+    left: 356px;
+    top: 642px;
+    
+    border: 1px solid #00BFA6;
+ }
+ #padlock{
+ position: absolute;
+ width: 51px;
+ height: 62px;
+ left: 20px;
+ top: 638px;
+  }
+
+ .linha-reta {
+   position: absolute;
+ width: 568px;
+ height: 0px;
+ left: 356px;
+ top: 642px;
+ 
+ border: 1px solid #00BFA6;
+ }
+ ul, a {
+  list-style-type: none;
+}
